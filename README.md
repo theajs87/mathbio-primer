@@ -30,7 +30,7 @@ Throughout my degree, I shaped my education around **mathematical biology**, exp
 That’s why I decided to put together this “primer course” - a short, exploratory overview of what I believe are the key concepts essential to progressing in this interdisciplinary field. My hope is that it serves as a useful starting point for anyone curious about the intersection of maths and biology, whether you’re just beginning or looking to deepen your understanding.
 
 ### Who is this for?
-This was designed specifically for my Life Sciences friends taking **LIFE60052 Integrative Systems Biology**, and my **Directed Reading Programme Group** members (2025-2026 year). HOWEVER!
+This was designed specifically for my Department of Life Sciences friends taking **LIFE60052 Integrative Systems Biology**, and my **Directed Reading Programme Group** members (2025-2026) in the Department of Mathematics. HOWEVER!
 
 I've designed this course for both biological and physical scientists. Due to the nature of the content (and my background), this means that the split is still roughly 70-30 in favour of the mathematics, but I believe that enough exposition is provided on either end so that this course is enjoyable for everyone. Further reading will also be provided if the main resources aren't doing it for you.
 
