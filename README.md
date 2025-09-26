@@ -5,7 +5,6 @@ Welcome to my mathematical biology primer course! The hope is that by completing
 - **Week 1: What is Mathematical Biology?**
   -  Key terminology, scope, motivation
   -  Calculus refresher - differentiation, integration, introduction to ordinary differential equations (ODEs)
-  -  *Further reading: TBC*
 - **Week 2: Dynamical Systems I: One-dimensional Systems**
   -  Quantitative vs Qualitative Analysis of ODEs
       - Phase Portraits, equilibria
@@ -33,8 +32,6 @@ That’s why I decided to put together this “primer course” - a short, explo
 This was designed specifically for my Department of Life Sciences friends taking **LIFE60052 Integrative Systems Biology**, and my **Directed Reading Programme Group** members (2025-2026) in the Department of Mathematics. HOWEVER!
 
 I've designed this course for both biological and physical scientists. Due to the nature of the content (and my background), this means that the split is still roughly 70-30 in favour of the mathematics, but I believe that enough exposition is provided on either end so that this course is enjoyable for everyone. Further reading will also be provided if the main resources aren't doing it for you.
-
-In terms of difficulty, this course is designed to be as "from scratch" as is possible. As an overview of the content, 
 
 ### How long will it take to complete?
 At the time of writing, I have designed the course to take roughly 10 weeks to complete under my supervision. If you're using this for self-study, this number may be higher - take as long as you want on each section!
