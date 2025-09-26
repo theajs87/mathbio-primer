@@ -4,7 +4,9 @@ Welcome to my mathematical biology primer course! The hope is that by completing
 ## Course Structure
 - **Week 1: What is Mathematical Biology?**
   -  Key terminology, scope, motivation
-  -  Calculus refresher - differentiation, integration, introduction to ordinary differential equations (ODEs)
+  -  Ordinary Differential Equations and Initial Value Problems
+  -  Existence and Uniqueness Theorem
+  -  *Further reading: Calculus Refresher, Picard–Lindelöf Theorem Proof* 
 - **Week 2: Dynamical Systems I: One-dimensional Systems**
   -  Quantitative vs Qualitative Analysis of ODEs
       - Phase Portraits, equilibria
